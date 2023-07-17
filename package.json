@@ -1,0 +1,21 @@
+{
+  "name": "playwrightpractice",
+  "version": "1.0.0",
+  "description": "Just practicing Playwright here",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewtdinh/playwrightPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewtdinh/playwrightPractice/issues"
+  },
+  "homepage": "https://github.com/andrewtdinh/playwrightPractice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  }
+}
