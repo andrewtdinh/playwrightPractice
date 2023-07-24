@@ -14,6 +14,7 @@ module.exports = defineConfig({
   testDir: "./tests",
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
   reporter: "html",
+  timeout: 30000,
   expect: {
     timeout: 8000,
   },
